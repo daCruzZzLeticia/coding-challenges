@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
+class Main {
     public static void main(String[] args) throws IOException {
 
         InputStreamReader inputReader = new InputStreamReader(System.in);
